@@ -1,4 +1,4 @@
-# 
+# 开源 low cap gem sniper bot 预设 Mac OS版 | 即时 low cap gem sniper bot 预设 PC Windows版。集成 快速执行 和 止盈订单，跨平台性能最大化。
 
 
 
